@@ -1,8 +1,0 @@
-#qr-code{
-    flex-wrap: wrap;
-}
-#qr-code img{
-    display: flex;
-    height: calc(10em);
-    width: auto;
-}
