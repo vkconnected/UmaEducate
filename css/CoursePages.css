@@ -1,0 +1,14 @@
+.videocourse{
+    display: flex;
+    height: calc(2.5vw + 4em);
+    width: auto;
+    border-radius: 0.6vh;
+}
+.vtexticon{
+    display: none;
+    height: 1.3em;
+    width: auto;
+}
+.vtexticon path{
+    fill: #DD4B25;
+}
